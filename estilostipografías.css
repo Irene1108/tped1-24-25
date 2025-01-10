@@ -1,0 +1,87 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Tourney&family=Jost&family=Bokor&family=Playfair+Display&family=Bebas+Neue&family=Over+the+Rainbow&display=swap');
+    .grid-container {
+        display: flex;
+      flex-direction: column;
+    
+        background-color: #ffffff;
+
+    }
+
+.contenedor-texto{
+display: flex;}
+
+.contenedor-texto2{
+  display: flex;
+}
+.contenedor-texto3{
+  display: flex;
+}
+    .Bokor-regular {
+        font-family: "Bokor", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-variation-settings: "ROND"0 ;
+      }
+     
+
+.Playfair-Display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+  font-variation-settings: "ROND"0 ;
+}
+
+.Bebas-Neue{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "ROND" 0;
+  }
+
+  .Doto {
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "ROND" 0;
+    }
+
+  .Jost{
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .Over-the-Rainbow {
+    font-family: "Over the Rainbow", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "ROND" 0;
+  }
+  .Tourney {
+    font-family: "Tourney", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: 
+      "wdth" 100;
+  }
+
+  .Playwrite-England-Joined{
+    font-family: "Playwrite GB J", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "ROND"0;
+  }
+
+  .Notable{
+    font-family: "Notable", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "ROND" 0;
+  }
